@@ -9,7 +9,10 @@ Our game is based on the original Bloons flash game, except ported to the SNES.
 
 ## Building
 
-To build, simply navigate to the root directory of the project in a command line
+To build, first go to the makefile in the root directory of the project and
+edit the OS variable to be either WIN or an acronym or UNIX.
+
+Then, simply navigate to the root directory of the project in a command line
 and either:
 
 ### 1) If on Windows
